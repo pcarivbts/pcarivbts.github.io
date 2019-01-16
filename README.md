@@ -1,6 +1,7 @@
-# company-web
-A clean one-page website for a company
+# PCARI-VBTS web site files
 
-## Author
+
+
+## Template credits to
 - [lanlu8834](https://github.com/lanlu8834)
 - [Locky](https://github.com/junlulocky)
